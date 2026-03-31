@@ -1,12 +1,12 @@
 {
-  "name": "My Docs",
-  "description": "My documentation site",
+  "name": "SWAGI BloomBot",
+  "description": "Documentation for the DSTF Robotics Project of AMNHS",
   "sidebar": [
   {
     "group": "Getting Started",
     "pages": [
       {
-        "title": "Getting to know docs.page",
+        "title": "Welcome",
         "href": "/",
         "icon": "rocket"
       },
