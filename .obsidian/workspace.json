@@ -11,14 +11,10 @@
             "id": "754ffc8343b2dbd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Parts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Parts"
+              "title": "New tab"
             }
           }
         ]
@@ -183,10 +179,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "1c898c0dbde75454",
+  "active": "754ffc8343b2dbd7",
   "lastOpenFiles": [
+    "Welcome!.md",
+    "Welcome!.mdx",
+    "Outline.md",
+    "Outline.mdx",
+    "docs/Outline.mdx",
+    "Pasted image 20260331115640.png",
+    "Pasted image 20260331114745.png",
+    "Parts.md",
+    "Wiring Diagram.md",
+    "Pasted image 20260331104913.png",
     "docs/Overview.mdx",
-    "docs/Overview.md",
     "docs.json",
     "docs/next-steps.mdx",
     "docs/index.mdx",
@@ -198,12 +203,6 @@
     "Pasted image 20260326175710.png",
     "Pasted image 20260326175604.png",
     "Pasted image 20260326175504.png",
-    "Overview.md",
-    "Wiring Diagram.md",
-    "imgs",
-    "Pasted image 20260326175019.png",
-    "imgs/Pasted image 20260326111531.png",
-    "imgs/Pasted image 20260326111522.png",
-    "Parts.md"
+    "imgs"
   ]
 }
